@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Mon Bazou" src="https://raw.githubusercontent.com/haksxpsapnzb/mon-bazou-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Mon Bazou
